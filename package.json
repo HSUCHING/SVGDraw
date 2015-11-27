@@ -1,0 +1,17 @@
+{
+  "name": "svgcomponent",
+  "version": "1.0.0",
+  "description": "SVG Component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SVG"
+  ],
+  "dependencies": {
+    "d3":"*"
+  },
+  "author": "Hsuching",
+  "license": "MIT"
+}
